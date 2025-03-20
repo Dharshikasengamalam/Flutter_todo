@@ -1,16 +1,21 @@
 # Todo_List
 
-A new Flutter project.
+A simple daily task planner built with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Task Master is a Flutter application that allows users to manage their daily tasks efficiently. The app features a modern UI with a transparent, blurred background and smooth user experience.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎯 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+✅ Add, edit, and delete tasks
+
+✅ Floating glassmorphism-style UI
+
+✅ Smooth animations and a beautiful color theme
+
+✅ Persistent task management
+
+
